@@ -11,7 +11,7 @@ N/A
 ## Usage
 Log onto the website and view the information.
 If you open up the DevTools on Chrome (Right click, then click inspect). In the Console setting will give a list and if you refresh the page it will shuffle which topic you should study.
-Provide instructions and examples for use. 
+
 ## Credits
 
 N/A
